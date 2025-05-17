@@ -1,0 +1,30 @@
+*{
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+@media (min-width: 992px) {
+    footer , #experience ,#education, #projects, #skills, #picture-section{
+      margin-left: 10rem;
+      margin-right: 10rem;
+
+    }
+  }
+body{
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+#experience-section{
+   border-radius: 30px;
+   border-style: solid;
+}
+
+#example{
+  color: blanchedalmond;
+}
+
+.tech{
+  cursor: default;
+}
